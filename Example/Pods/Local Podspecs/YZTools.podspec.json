@@ -1,0 +1,22 @@
+{
+  "name": "YZTools",
+  "version": "0.1.0",
+  "summary": "A short description of YZTools. For test",
+  "description": "A Test tools",
+  "homepage": "https://github.com/yuzhen/YZTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yuzhen": "yuzhen.zhan@shopee.com"
+  },
+  "source": {
+    "git": "https://github.com/yuzhen/YZTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YZTools/Classes/**/*"
+}
