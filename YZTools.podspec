@@ -23,8 +23,8 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/yuzhen/YZTools'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'yuzhen' => 'yuzhen.zhan@shopee.com' }
-  s.source           = { :git => 'git@tools:yzzhan/YZTools.git', :tag => s.version.to_s }
+  s.author           = { 'yuzhen' => '624501030@qq.com' }
+  s.source           = { :git => 'https://github.com/yzzhan/YZTools.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
